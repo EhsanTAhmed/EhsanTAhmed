@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EhsanTAhmed
 - 👀 I’m interested in growing my coding portfolio
-- 🌱 I’m currently learning software engeneering
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on group assignments
 - 📫 How to reach me: ehsanahmed2k21@gmail.com
 - 😄 Pronouns: He/Him
